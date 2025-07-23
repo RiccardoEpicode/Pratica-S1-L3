@@ -47,6 +47,10 @@ figcaption{
     background-color: #fdfbf1;
 }
 
+.featuredDiv h4 {
+    margin: 0;
+}
+
 .featuredLink {
     color:lightseagreen;
     text-decoration:underline
