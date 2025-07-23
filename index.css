@@ -1,0 +1,75 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.centeredImg {
+    display: block;
+    margin: auto;
+}
+
+.logoH3 {
+    text-align: center;
+    padding: 0.8rem;
+    font-size: 1.5rem;
+    color: #055238;
+    background-color: #fdfbf1;
+    margin-top: 20px;
+    border-top: rgb(247, 216, 45) solid 2px;
+}
+
+.centeredText{
+    text-align: center;
+}
+
+.widthRestrained{
+    width: 40%;
+    margin: auto;
+}
+
+figcaption{
+    text-align: center;
+    padding-top: 0.8rem;
+    color: rgb(152, 152, 163);
+}
+
+.imgMain{
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+.featuredDiv{
+    width: 40%;
+    margin: auto;
+    border-left: rgb(247, 216, 45) solid 2px;
+    padding-left: 0.8rem;
+    font-size: 1.5rem;
+    color: #333;
+    background-color: #fdfbf1;
+}
+
+.featuredLink {
+    color:lightseagreen;
+    text-decoration:underline
+}
+
+.articleTitle {
+    border-bottom: rgb(224, 243, 243) solid 2px;
+    padding: 0.8rem;
+}
+
+.articleSubTitle {
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.introSection{
+    padding-bottom: 3rem;
+}
+
+.textColor1{
+    color: rgb(63, 63, 63);
+}
+
+.textColor2{
+    color: rgb(185, 96, 13)
+}
