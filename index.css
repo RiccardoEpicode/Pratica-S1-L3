@@ -21,7 +21,7 @@
 }
 
 .widthRestrained{
-    width: 40%;
+    max-width:40%;
     margin: auto;
 }
 
@@ -38,12 +38,11 @@ figcaption{
 }
 
 .featuredDiv{
-    width: 40%;
+    max-width: 40%;
     margin: auto;
     border-left: rgb(247, 216, 45) solid 2px;
     padding-left: 0.8rem;
-    font-size: 1.5rem;
-    color: #333;
+    font-size: 1rem;
     background-color: #fdfbf1;
 }
 
@@ -67,7 +66,8 @@ figcaption{
 }
 
 .introSection{
-    padding-bottom: 3rem;
+    padding-bottom: 2rem;
+    padding-top: 3rem;
 }
 
 .textColor1{
